@@ -43,7 +43,8 @@ Using Randomizedsearch CV and GridSearch CV to select the best parameter for tra
 ## Model Dump
 As per selected trained model is dumped to pickled format for app development
 
-## ide used Pycharm
+## Ide used Pycharm
+Used Flask.
 ![name-of-you-image](https://github.com/HeyKashit/Flight-Fare-Prediction/blob/main/Screenshots/Pycharm%20image.png)
 
 # deployed:
