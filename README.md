@@ -33,7 +33,7 @@ Made chats like( Bocxplot,countplot,distplot,pairplot).
 
 ## Model Selection 
 Made many Models
-Bur selected RandomForest Regressor.
+But selected RandomForest Regressor.
 
 ## Hyperparameter Optimization
 Using Randomizedsearch CV and GridSearch CV to select the best parameter for training the model
