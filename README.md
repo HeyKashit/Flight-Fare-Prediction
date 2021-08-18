@@ -1,7 +1,7 @@
 # Flight-Fare-Prediction
 Flight Fare Prediction using Machine Learning
 
-![name-of-you-image](https://github.com/HeyKashit/Flight-Fare-Prediction/blob/main/Local%20Host%20.png)
+![name-of-you-image](https://github.com/HeyKashit/Flight-Fare-Prediction/blob/main/Screenshots/Local%20Host%20.png)
 
 # Problem Statement:
 Travelling through flights has become an integral part of today’s lifestyle as more and
@@ -43,3 +43,10 @@ Using Randomizedsearch CV and GridSearch CV to select the best parameter for tra
 ## Model Dump
 As per selected trained model is dumped to pickled format for app development
 
+## ide used Pycharm
+![name-of-you-image](https://github.com/HeyKashit/Flight-Fare-Prediction/blob/main/Screenshots/Pycharm%20image.png)
+
+# deployed:
+Deployed on heroku
+
+![name-of-you-image](https://github.com/HeyKashit/Flight-Fare-Prediction/blob/main/Screenshots/heroku.png)
