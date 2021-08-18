@@ -1,6 +1,8 @@
 # Flight-Fare-Prediction
 Flight Fare Prediction using Machine Learning
 
+![name-of-you-image](https://github.com/HeyKashit/Flight-Fare-Prediction/blob/main/Local%20Host%20.png)
+
 # Problem Statement:
 Travelling through flights has become an integral part of today’s lifestyle as more and
 more people are opting for faster travelling options. The flight ticket prices increase or
