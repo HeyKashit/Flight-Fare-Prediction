@@ -1,4 +1,4 @@
-# Flight-Fare-Prediction
+# Flight-Fare-Prediction.
 Flight Fare Prediction using Machine Learning
 
 ![name-of-you-image](https://github.com/HeyKashit/Flight-Fare-Prediction/blob/main/Screenshots/Local%20Host%20.png)
